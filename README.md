@@ -43,7 +43,7 @@ The database connection is configured with the following parameters:
 ## Features
 
 1. Database Operations:
-   - Create database and table
+   - Create a database and table
    - Insert sample data
    - Query data using pandas
    - Update records

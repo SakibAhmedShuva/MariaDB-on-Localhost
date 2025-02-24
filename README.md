@@ -38,7 +38,7 @@ The database connection is configured with the following parameters:
 - Port: 3306
 - User: root
 - Password: 1234
-- Database: sample_db (created by the script)
+- Database: sample_db
 
 ## Features
 

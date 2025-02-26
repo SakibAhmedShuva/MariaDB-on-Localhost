@@ -31,14 +31,6 @@ mariadb-docker-python/
 │   requirements.txt
 ```
 
-## Configuration
-
-The database connection is configured with the following parameters:
-- Host: localhost
-- Port: 3306
-- User: root
-- Password: 1234
-- Database: sample_db
 
 ## Features
 
@@ -49,23 +41,11 @@ The database connection is configured with the following parameters:
    - Update records
    - Display results
 
-2. Sample Table Structure (employees):
+2. Sample Table Structure:
    - id (INT, AUTO_INCREMENT, PRIMARY KEY)
    - name (VARCHAR(100))
    - age (INT)
    - salary (DECIMAL(10,2))
-
-## Usage
-
-1. Start the MariaDB container:
-```bash
-docker start my-mariadb
-```
-
-2. Run the Python script:
-```bash
-python main.py
-```
 
 ## Docker Commands
 

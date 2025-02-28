@@ -6,15 +6,14 @@ This project demonstrates how to set up MariaDB using Docker and interact with i
 
 - Docker
 - Python 3.x
-- Required Python packages:
-  - mysql-connector-python
-  - pandas
+- Required Python packages: see requirements.txt
+
 
 ## Installation
 
 1. Install required Python packages:
 ```bash
-pip install mysql-connector-python pandas
+pip install -r requirements.txt
 ```
 
 2. Pull and run MariaDB Docker container:

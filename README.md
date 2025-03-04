@@ -46,12 +46,6 @@ MariaDB-on-Localhost/
    - age (INT)
    - salary (DECIMAL(10,2))
 
-## Docker Commands
-
-- Start container: `docker start my-mariadb`
-- Stop container: `docker stop my-mariadb`
-- Remove container: `docker rm my-mariadb`
-- Check container logs: `docker logs my-mariadb`
 
 ## Error Handling
 

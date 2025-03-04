@@ -24,7 +24,7 @@ docker run --name my-mariadb -e MYSQL_ROOT_PASSWORD=1234 -p 3306:3306 -d mariadb
 ## Project Structure
 
 ```
-mariadb-docker-python/
+MariaDB-on-Localhost/
 │   README.md
 │   mariadb.ipynb
 │   requirements.txt
